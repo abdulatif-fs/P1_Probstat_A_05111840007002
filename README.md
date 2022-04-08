@@ -1,6 +1,6 @@
 # P1_Probstat_A_05111840007002
 
-**1**
+**1.Distribusi Geometrik**
 
 1.a
 ![Getting Started](P1/1.a.PNG)
