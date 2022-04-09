@@ -1,22 +1,22 @@
 # P1_Probstat_A_05111840007002
 
-**1.Distribusi Geometrik**
+## **1.Distribusi Geometrik**
 
-1.a
+**1.a**
 
 ![Getting Started](P1/1.a.PNG)
 
-1.b 
+**1.b**
 
 ![Getting Started](P1/1.b.PNG)
 
-1.c
+**1.c**
 
-1.d
+**1.d**
 
 ![Getting Started](P1/1.d.png)
 
-1.e
+**1.e**
 
 **Rataan**
 
@@ -33,3 +33,23 @@
  bila dihitung manual, varian dari distribusi geometric adalah (1 - p) / p^2
  maka akan didaptkan var = 20
  dengan R, digunakan n=10000 dan didapatkan nilai yang mendekati
+
+
+## **2.Distribusi Binomial**
+
+**2.a**
+
+![Getting Started](P1/2.a.png)
+
+**2.b**
+
+![Getting Started](P1/2.b.png)
+
+**2.c**
+**mean**
+
+![Getting Started](P1/2.c_mean.png)
+
+**varians**
+
+![Getting Started](P1/2.c_var.png)
