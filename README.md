@@ -53,3 +53,23 @@
 **varians**
 
 ![Getting Started](P1/2.c_var.png)
+
+## **3.Distribusi Poisson**
+
+**3.a**
+
+![Getting Started](P1/3.a.png)
+
+**3.b**
+
+![Getting Started](P1/3.b.png)
+
+**3.c**
+
+**mean**
+
+![Getting Started](P1/3.c_mean.png)
+
+**varians**
+
+![Getting Started](P1/3.c_var.png)
