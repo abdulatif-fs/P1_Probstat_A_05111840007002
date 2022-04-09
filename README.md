@@ -103,4 +103,39 @@ varian dari chi-square adalah 2 kali rataan/derajat kebebasan. sehingga varian d
 
 ![Getting Started](P1/4.c_var.png)
 
+## 5.Distribusi Eksponensial
+
+**5.a**
+
+n=1
+#n dapat berupa nilai random
+dexp(n,rate=3)
+
+**5.b**
+
+n = 10
+
+![Getting Started](P1/5.b_10.png)
+
+n = 100
+
+![Getting Started](P1/5.b_100.png)
+
+n = 1000
+
+![Getting Started](P1/5.b_1000.png)
+
+n = 10000
+
+![Getting Started](P1/5.b_10000.png)
+
+**5.c**
+
+**Rataan**
+
+![Getting Started](P1/5.c_mean.png)
+
+**Varians**
+
+![Getting Started](P1/5.c_var.png)
 
