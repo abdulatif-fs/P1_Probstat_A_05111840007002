@@ -79,3 +79,28 @@ bila dibandingkan, dalam satu tahun, peluang muncul lahir 6 bayi adalah sama. ya
 **varians**
 
 ![Getting Started](P1/3.c_var.png)
+
+## **4.Distribusi Chi-Square**
+
+**4.a**
+
+![Getting Started](P1/4.a.png)
+
+**4.b**
+
+![Getting Started](P1/4.b.png)
+
+**4.c**
+**rataan**
+
+rataan dari chi-square sama dengan nilai kebebasan nya sehingga rataan dari chi-square = v.
+
+![Getting Started](P1/4.c_mean.png)
+
+**varians**
+
+varian dari chi-square adalah 2 kali rataan/derajat kebebasan. sehingga varian dari chi-square = 2*v
+
+![Getting Started](P1/4.c_var.png)
+
+
