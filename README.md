@@ -66,6 +66,12 @@
 
 **3.c**
 
+bila dibandingkan, dalam satu tahun, peluang muncul lahir 6 bayi adalah sama. yaitu p6 = 0.1281201. dengan kata lain peluang lahir dengan jumlah tertentu akan sama meski diulang berkali-kali. namun bila ditinjau ulang, maka kemungkinan lahir bayi setiap harinya akan berbeda. berikut merupakan histogram dari banyaknya bayi yang akan lahir setiap harinya dalam satu tahun
+
+![Getting Started](P1/3.c.png)
+
+**3.d**
+
 **mean**
 
 ![Getting Started](P1/3.c_mean.png)
