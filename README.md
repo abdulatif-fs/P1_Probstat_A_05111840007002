@@ -139,3 +139,30 @@ n = 10000
 
 ![Getting Started](P1/5.c_var.png)
 
+## **6.Distribusi Normal**
+
+**6.a**
+
+Menentukan x1 dan x2
+
+![Getting Started](P1/6.a_x1x2.png)
+
+Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2)
+
+![Getting Started](P1/6.a_func.png)
+
+z_score dari x1 dan z_score x2
+
+![Getting Started](P1/6.a_zscore.png)
+
+Plot dara random
+
+![Getting Started](P1/6.a_plot.png)
+
+**6.b Histogram**
+
+![Getting Started](P1/6.b.png)
+
+**6.c Varians**
+
+![Getting Started](P1/6.c.png)
