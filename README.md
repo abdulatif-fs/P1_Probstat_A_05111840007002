@@ -155,7 +155,7 @@ z_score dari x1 dan z_score x2
 
 ![Getting Started](P1/6.a_zscore.png)
 
-Plot dara random
+Plot data random
 
 ![Getting Started](P1/6.a_plot.png)
 
