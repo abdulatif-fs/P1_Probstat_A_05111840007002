@@ -12,6 +12,8 @@
 
 **1.c**
 
+Bila dilihat, hasil a dan b tidak begitu jauh. padahal pada bagian b, dibuat random data dan diacak. dengan demikian dapat disimpulkan nilai yang didapat menggunakan R adalah nilai yang mendekati niali sebenarnya.
+
 **1.d**
 
 ![Getting Started](P1/1.d.png)
