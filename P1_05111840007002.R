@@ -117,6 +117,92 @@ var1=var(rpois(10000,lamda))
 var1
 =========================================================================
 
+
 #4.
+#a. peluang chi-square
+x=2
+v=10
+dchisq(x, df=v)
+
+#b. histogram
+n=100
+chi_square= rchisq(n, df=v)
+hist(chi_square)
+
+#c. rataan dan varians
+mean = v
+mean
+var = 2*v
+var
+
+========================================================================
+#5. distribusi eksponensial
+#a.
+n=1
+#n dapat berupa nilai random
+dexp(n,rate=3)
+
+#b
+set.seet(1)
+hist(rexp(10, rate=3))
+
+set.seet(1)
+hist(rexp(100, rate=3))
+
+set.seet(1)
+hist(rexp(1000, rate=3))
+
+set.seet(1)
+hist(rexp(10000, rate=3))
+
+#c. rataan dan varians
+rate = 3
+mean = rate
+mean
+
+var = 2*mean
+var
+
+=====================================================================
+##6.distribusi normal
+
+#a
+n=100
+mean=50
+std=8
+
+#merandom data
+rand = rnorm(n, mean, std)
+
+#menentukan nilai x1 dan x2
+rataan=mean(rand)
+rataan
+x1=floor(rataan)
+x1
+x2=round(rataan)
+x2
+	
+
+#fungsi
+func = pnorm(x2, mean, std, lower.tail = TRUE) -
+  pnorm(x1, mean, std, lower.tail = TRUE)
+func
+
+z_score1 <- (x1-mean)/std
+z_score1
+z_score2 <- (x2-mean)/std 
+z_score2
+
+
+#plot
+plot(rand, col="blue")
+
+#b.histogram
+
+x <- rnorm(n, mean, std)
+hist(x, breaks = 50, main = "05111840007002_Probstat_A_DNHistogram")
+
+#varians
+var(rnorm(n, mean, std))
 
 
